@@ -9,7 +9,7 @@ export default class Planner extends React.Component {
       </header>
       <main>
         <div className="d-flex justify-content-center">
-          <button>Add Entry</button>
+            <button className="py-1 px-3 rounded salmon hover-shadow btn btn-outline-secondary">Add Entry</button>
         </div>
       </main>
       </>
