@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Planner from './planner';
 
 ReactDOM.render(
-  <h1>Hello world.</h1>,
+  <Planner />,
   document.querySelector('#root')
 );
