@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+html {
+  background-image: url("./white-texture.jpg");
+}
 body {
   font-family: "Grandstander", cursive;
   max-width: 800px;
