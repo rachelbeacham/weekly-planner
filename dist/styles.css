@@ -1,11 +1,13 @@
 * {
   box-sizing: border-box;
 }
-html {
-  background-image: url("./white-texture.jpg");
-}
+
 body {
   font-family: "Grandstander", cursive;
+  background-image: url("./white-texture.jpg");
+}
+
+#root {
   max-width: 800px;
   margin: 0 auto;
 }
