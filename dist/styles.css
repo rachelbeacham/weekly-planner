@@ -3,4 +3,10 @@
 }
 body {
   font-family: "Grandstander", cursive;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.salmon {
+  color: salmon;
 }
