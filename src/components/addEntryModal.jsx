@@ -3,7 +3,7 @@ import React from 'react';
 export default class AddEntry extends React.Component {
   render() {
     return (
-      <div className="d-flex justify-content-center align-items-center min-vh-100">
+      <div className="d-flex justify-content-center align-items-center">
         <div className="border border-dark barder-2 p-4">
           <h2 className="salmon text-center">Add Entry</h2>
           <form>
